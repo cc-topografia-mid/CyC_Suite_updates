@@ -1,5 +1,6 @@
 {
-    "version_actual": "260421.1200",
-    "url_zip": "https://github.com/cc-topografia-mid/CyC_Suite_updates/releases/download/v260421.1216/parche_cyc_20260421_1246.zip",
-    "notas_cambio": "Mejora en el algoritmo de diagnóstico de RTKLIB."
+  "version_actual": "260427.1000", 
+  "url_descarga": "https://raw.githubusercontent.com/cc-topografia-mid/CyC_Suite_updates/main/parche_cyc.zip",
+  "notas_cambio": "Escribe aquí las mejoras (ej. actualizacion critica para el modulo de presupuestos)",
+  "tipo": "parche"
 }
