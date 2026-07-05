@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "tipo": "micro_parche",
+  "suite_version": "260704.1942",
+  "paquete": "parche_cyc_20260704_2023.zip",
+  "generado_local": "20260704_2023",
+  "origen": "C:\\00_PROYECTOS\\CyC_Suite\\V1_(DEV)",
+  "seleccionados": [
+    "cyc_updater.py",
+    "hub_principal.py",
+    "i18\\idiomas\\en\\main.json",
+    "i18\\idiomas\\es\\main.json",
+    "i18\\idiomas\\pt\\main.json",
+    "linderos\\CHANGELOG.md",
+    "linderos\\controlador.py",
+    "monetizacion\\controlador.py",
+    "monetizacion\\vista.py",
+    "rinex\\CHANGELOG.md",
+    "rinex\\controlador.py",
+    "telemetria\\cliente.py",
+    "telemetria\\config.py",
+    "telemetria\\configurar_supabase.py",
+    "telemetria\\exportar_reporte.py",
+    "versiones.py"
+  ],
+  "archivos": [
+    {
+      "ruta": "manifiesto_20260704_2023.md",
+      "bytes": 985,
+      "sha256": "150417f2dc6ce4ca888de183c8a70919e025bc7d77c7648aac2562cef0c936f7"
+    },
+    {
+      "ruta": "_internal/cyc_updater.pyd",
+      "bytes": 889344,
+      "sha256": "330640df8750ab64cf985c9362c38c001ffc7ea5f8605bb9db78f5ded7f205ac"
+    },
+    {
+      "ruta": "_internal/hub_principal.pyd",
+      "bytes": 1206272,
+      "sha256": "df1aaf0a9f6410c51a45938c5b56bc85794429be27c11e36b17e12f840739881"
+    },
+    {
+      "ruta": "_internal/versiones.pyd",
+      "bytes": 732160,
+      "sha256": "40d9028fb2632c899cccf4d6ca7caca003c621ec99f2f96de53a8d05a37ff84b"
+    },
+    {
+      "ruta": "_internal/i18/idiomas/en/main.json",
+      "bytes": 5569,
+      "sha256": "8258dfa7c5accd4db7e5c2212cc64b1447b97e259e1551d4569242b7b48b06b4"
+    },
+    {
+      "ruta": "_internal/i18/idiomas/es/main.json",
+      "bytes": 5839,
+      "sha256": "073ee5258c52b961136f657a500d2cc48072e2c732ba6ed3734ba46c1de260e9"
+    },
+    {
+      "ruta": "_internal/i18/idiomas/pt/main.json",
+      "bytes": 5908,
+      "sha256": "77dcbf2e2b91d03991c21a09993e3cb0c701179afb18b9c1f8cc5a30948aba81"
+    },
+    {
+      "ruta": "_internal/linderos/CHANGELOG.md",
+      "bytes": 17052,
+      "sha256": "399dc8bc19e5d8d49b6a1333a1e96fe32b68ca2570ddfc734f148d83cfbe6f83"
+    },
+    {
+      "ruta": "_internal/linderos/controlador.pyd",
+      "bytes": 981504,
+      "sha256": "b9fb774ca54b462adbe657fce4dba8dd36a56546e903cc7510c6a4cd4351c014"
+    },
+    {
+      "ruta": "_internal/monetizacion/controlador.pyd",
+      "bytes": 743936,
+      "sha256": "3a16e503ea570dfde80da91fd619ef5fa77b0cd2130deb6e91845c50cb7b2a3b"
+    },
+    {
+      "ruta": "_internal/monetizacion/vista.pyd",
+      "bytes": 753664,
+      "sha256": "6a8ada4fcafe12b5937d765e64bb1027b33cd9ff631d640c472768e757c915a9"
+    },
+    {
+      "ruta": "_internal/rinex/CHANGELOG.md",
+      "bytes": 17655,
+      "sha256": "598d0292f924a662a7497fd88c5f7d551b9266ab2340d4d581c0a4a3939870c8"
+    },
+    {
+      "ruta": "_internal/rinex/controlador.pyd",
+      "bytes": 902656,
+      "sha256": "43838bba0ad924c092cf2545a256bd749ab3db0f7b5b094aff7955f267bf743b"
+    },
+    {
+      "ruta": "_internal/telemetria/cliente.pyd",
+      "bytes": 809984,
+      "sha256": "f38a4702cbcd6720275efbde94131e08014f67e1ab0e3c0a69947f9a3a7e1004"
+    },
+    {
+      "ruta": "_internal/telemetria/config.pyd",
+      "bytes": 753152,
+      "sha256": "bb78b56dbf0a8e89ecfb686f8c8a545d699ca70f5ff7c891542af5e565e8a03b"
+    },
+    {
+      "ruta": "_internal/telemetria/configurar_supabase.pyd",
+      "bytes": 739328,
+      "sha256": "7612d75203cf66928f5e2c78996b808d7645a5660539e99a2c2d9d84043f2afc"
+    },
+    {
+      "ruta": "_internal/telemetria/exportar_reporte.pyd",
+      "bytes": 768512,
+      "sha256": "8dcfdf3107560d81097c1cb658bb25f0c9bdfe5b80de63e358a6245fcbcfa781"
+    }
+  ]
+}
