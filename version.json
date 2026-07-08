@@ -1,22 +1,23 @@
 {
   "schema_version": 8,
-  "revision": 4,
-  "actualizado_utc": "2026-07-05T05:52:23Z",
-  "version_actual": "260704.2259",
-  "version_minima": "260704.2259",
-  "url_descarga": "https://raw.githubusercontent.com/cc-topografia-mid/CyC_Suite_updates/refs/heads/main/parche_cyc_20260704_2352.zip",
-  "notas_cambio": "Micro-parche generado desde el Creador OTA de CyC Suite.",
+  "revision": 5,
+  "actualizado_utc": "2026-07-08T16:58:46Z",
+  "version_actual": "260707.2352",
+  "version_minima": "260627.1012",
+  "url_descarga": "https://raw.githubusercontent.com/cc-topografia-mid/CyC_Suite_updates/refs/heads/main/parche_cyc_acumulativo_20260707_2352.zip",
+  "notas_cambio": "Parche acumulativo CyC Desktop Suite",
   "tipo": "parche",
-  "sha256": "10dd14e913ff48e8e2e35a26d041258385fb0c908b2beb465a28a6b56a6113d2",
-  "tamano_bytes": 3224231,
+  "sha256": "633c2a6a46a8ad629772ee623af644ba9cb253df4c87d11f4abc1731949f17e8",
+  "tamano_bytes": 6424488,
   "artefacto": {
-    "nombre": "parche_cyc_20260704_2352.zip",
-    "sha256": "10dd14e913ff48e8e2e35a26d041258385fb0c908b2beb465a28a6b56a6113d2",
-    "tamano_bytes": 3224231
+    "nombre": "parche_cyc_acumulativo_20260707_2352.zip",
+    "sha256": "633c2a6a46a8ad629772ee623af644ba9cb253df4c87d11f4abc1731949f17e8",
+    "tamano_bytes": 6424488
   },
+  "url_changelog": "https://raw.githubusercontent.com/cc-topografia-mid/CyC_Suite_updates/refs/heads/main/CHANGELOG_GENERAL_PARCHE_ACUMULATIVO_20260708_0942.md",
   "firma_remota": {
     "algoritmo": "Ed25519",
     "clave_id": "cyc-policy-2026-01",
-    "valor": "5NlYnb2KMncqs8645S+akpoGMRwp+/bHnqTGXG8cRs/TKrC7I2dS8HUzS8rKY7UxiQjsGlB+rOu7RSuo+jL2DA=="
+    "valor": "HLyuBZRCch/D4qnNjP4wN5vWdFFiLErbz4niTukWUAKpiOLJhpWa1PqYwFxqsqdlCBT8+tZ11s6ueMdSTbekCg=="
   }
 }
